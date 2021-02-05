@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodePath Prework</string>
+    <string name="default_label">Hello from Hang!</string>
+    <string name="change_text_color">Click here to change the text color</string>
+    <string name="change_text">Click here to change the displayed text</string>
+    <string name="input_text">Type text here to change label</string>
+    <string name="no_input_default">"You&apos;ve changed the text!"</string>
+    <string name='change_background'>Click here to change the background color</string>
+</resources>
